@@ -21,6 +21,15 @@ As a user, I would like to be able to read a list of comments, add a comment, an
    2) Should be listed in descending order of comment count
 
 
+### Summary 
+1) app - page container
+2) components - reusable components
+3) services - api instances, configs and mock data
+4) store - redux, slice
+5) theme - mui theme instance and constants
+6) types - global types
+7) utils - basic function utilities
+
 ### Useful Links
 
 * https://v4.mui.com/
